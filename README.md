@@ -192,7 +192,7 @@ Secara keseluruhan, dapat disimpulkan bahwa hasil naive estimation dan weighted 
 ---
 
 ### Grafik Perbandingan
-![Grafik Perbandingan](images/grafik_perbandingan.png)
+https://github.com/ninoninoninolii/nonprobability-survey/blob/main/photo_6068799501356437908_w.jpg
 
 ---
 
